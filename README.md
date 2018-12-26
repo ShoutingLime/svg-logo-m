@@ -1,4 +1,4 @@
 # svg-logo-m
 Animated SVG logo (M)
 
-Address: ShoutingLime.github.com/svg-logo-m/
+Address: https://shoutinglime.github.io/svg-logo-m/
